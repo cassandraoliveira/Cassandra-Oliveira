@@ -1,0 +1,47 @@
+
+  ul {
+	list-style-type:center ;
+	margin: 0;
+	padding: 0;
+  }
+  li {
+	float: center;
+  }
+  a {
+	display: inline-block;
+	padding: 20px;
+	background-color: #D3D3DF;
+  }
+
+.header {
+  background-image: url(blogbannerhomepage.png.png);
+background-position: center;
+background-repeat: repeat;
+}
+
+  
+body {
+	background-color:#E9E9EF;
+	font-family: 'Courier New',
+}
+img {
+	border-radius: 50%;
+	align-items: center;
+  }
+  h1 {
+	color: #FF7708;
+	text-align: center;
+  }
+  
+  h2 {
+	  color:#4B4B68;
+	  text-align: center;
+  }
+  p {
+	  color:#565676;
+	font-family:'Courier New';
+	font-size: 20px;
+	text-align: center;
+  }
+
+  
